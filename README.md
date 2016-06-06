@@ -8,7 +8,7 @@ It aims to do this a number of ways:
    + provide plugin for x-plane to do this
 2. provide a sextant like tool as a plugin for Stellarium
 3. provide an automated navigator, who can take sights, dead reckon, and is affected by the weather conditions.
-   Idea is very much based on the fantastic navigation mods for Silent Hunter 5
+   Idea is very much based on the [fantastic real navigation mod](https://www.youtube.com/watch?v=UJ8pHSRxCl8) for Silent Hunter 5
 4. provide weather effects for stellarium
 5. provide a java libgdx application with:
    + map plotting tools
