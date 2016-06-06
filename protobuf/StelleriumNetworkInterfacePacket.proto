@@ -1,0 +1,20 @@
+
+message Location {
+	required double latitude = 1;
+	required double longitude = 2;
+	required double altitude = 3;
+}
+
+enum Weather {
+	CLEAR = 0;
+	PART_CLOUDY = 1;
+	CLOUDY = 2;
+	OVERCAST = 3;
+}
+
+message NetworkInterfacePacket {
+	optional Location location = 1;
+	optional string time = 2;
+	optional Weather weather = 3 [default = CLEAR];
+	optional string vehicleName = 4;
+}
