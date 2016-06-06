@@ -35,6 +35,7 @@ or simulator to easily implement their own input into stellarium.
 + Configuration files for x-plane
 + Configuration files for stellarium
 + Configuration ui for stellarium
++ make dynamic version of plugin and provide windows and mac builds
 + Sextant plugin for stellarium
 + automated navigator for x-plane
 + weather effects for stellarium
