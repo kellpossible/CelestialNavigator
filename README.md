@@ -17,7 +17,7 @@ It aims to do this a number of ways:
    + automatic connection with Stellarium's sextant plugin
 
 The basis for network communication with stellarium is a protocol buffer, and udp sockets. 
-his should allow other simulators such as fsx, p3d, silent hunter or any other game
+This should allow other simulators such as fsx, p3d, silent hunter or any other game
 or simulator to easily implement their own input into stellarium.
 
 ## Project Status
